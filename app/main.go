@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"//github.com/kfum404/go-lab4/blob/main/transport"
+	"github.com/kfum404/go-lab4/transport"
 )
 
 func main() {
