@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"://github.com"
+	"://github.com/kfum404/go-lab4/edit/main/app/main.go"
 )
 
 func main() {
